@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be4a7d8b-433d-406b-b40a-3a2ad50a0a2f" name="Changes" comment="cleaning unnecessary files and adding nav menu to other speaker pages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be4a7d8b-433d-406b-b40a-3a2ad50a0a2f" name="Changes" comment="cleaning unnecessary files and adding nav menu to other speaker pages" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -50,9 +48,7 @@
       <workItem from="1636935374574" duration="686000" />
       <workItem from="1636939401767" duration="12000" />
       <workItem from="1636939449169" duration="601000" />
-      <workItem from="1636942136721" duration="8949000" />
-      <workItem from="1637118686067" duration="616000" />
-      <workItem from="1637325790265" duration="308000" />
+      <workItem from="1636942136721" duration="8651000" />
     </task>
     <task id="LOCAL-00001" summary="pushing everything">
       <created>1636949992356</created>
